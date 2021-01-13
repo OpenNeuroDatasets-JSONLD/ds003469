@@ -1,0 +1,5 @@
+{
+"PhaseEncodingDirection": "j",
+"TotalReadoutTime": 0.019,
+"IntendedFor": "func/sub-118_task-rest_bold.nii.gz"
+}
